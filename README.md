@@ -1,4 +1,5 @@
 # Tag_HTML 
+```html
 Terdapat dua tag untuk memformat suatu teks, yaitu tag pembuka <tagname> dan tag penutup </tagname> .
 untuk dasar dan ketentuan keharusan dalam HTML yag wajib ada adalah tag html,head,body.
 
@@ -11,3 +12,5 @@ Tag-tag pelengkap yang ada di HTML beserta fungsinya:
 <u> Underline </u> => Menggaris bawahi huruf/kalimat.
 <br> => untuk garis kosong/baru, tidak diperlukan tag penutup.
 <a href="https://www.w3schools.com">This is a link</a>
+
+```
